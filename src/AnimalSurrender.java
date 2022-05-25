@@ -280,6 +280,7 @@ public class AnimalSurrender extends javax.swing.JInternalFrame {
             gender = "Female";
         Boolean availability = true;
              
+        
         try {
             Class.forName("com.mysql.jdbc.Driver");
             connection = DriverManager.getConnection("jdbc:mysql://localhost/animal_queue", "brian", "");
