@@ -5,7 +5,3 @@ The jdbc jar file is included along with the SQL Database called "animal".
 Once MAMP WebStart page is launched, go to tools --> access phpMyAdmin --> Databases and create a new database called "animal_queue". Import the animal SQL Database.
 
 Open the "dist" folder -> AnimalQueue (Executable Jar File) and launch the file to open the project.
-
-<!-- Open Netbeans and on the left side Projects section, go to AnimalQueue --> Libraries--> Add JAR/Folder and select the jar file.
-Click the run button to start.
- -->
